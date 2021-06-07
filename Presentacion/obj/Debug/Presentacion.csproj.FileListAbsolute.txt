@@ -1,0 +1,32 @@
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Presentacion.exe
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Presentacion.pdb
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Dominio.dll
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Negocio.dll
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Dominio.pdb
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Negocio.pdb
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.Form1.resources
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.exe
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.pdb
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.FmrAlta.resources
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.FmrAlta.resources
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Julian\Desktop\Martin\UTN\PROG3\Proyectos\Programacion-III\TPWinForm\CatalogoArticulos\Presentacion\obj\Debug\Presentacion.pdb

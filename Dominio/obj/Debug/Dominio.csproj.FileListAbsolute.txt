@@ -1,0 +1,6 @@
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Dominio\bin\Debug\Dominio.dll
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Dominio\bin\Debug\Dominio.pdb
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Dominio\obj\Debug\Dominio.dll
+D:\Facultad 2021 1C\Prog 3\Programacion-III\TPWinForm\CatalogoArticulos\Dominio\obj\Debug\Dominio.pdb
